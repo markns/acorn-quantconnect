@@ -2,9 +2,7 @@
 
 This project is an implementation of the "starter system" described in [Rob Carver](https://qoppac.blogspot.com/p/about-me.html)'s book [Leveraged Trading](https://www.systematicmoney.org/leveraged-trading)
 
-It uses the [LEAN](https://www.quantconnect.com/docs/v2/lean-cli) backtesting engine developed by [Quant Connect](https://www.quantconnect.com/).
-
-It is trading CFDs via the Oanda brokerage.
+It uses the [LEAN](https://www.quantconnect.com/docs/v2/lean-cli) backtesting engine developed by [Quant Connect](https://www.quantconnect.com/) and trades CFDs via the Oanda brokerage.
 
 ## Results
 
