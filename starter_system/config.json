@@ -1,0 +1,9 @@
+{
+    "algorithm-language": "Python",
+    "parameters": {
+        "instrument": "$INSTRUMENT"
+    },
+    "description": "",
+    "cloud-id": 12011540,
+    "local-id": 888091741
+}

@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "acorn-quantconnect"
+version = "0.1.0"
+description = ""
+authors = ["Mark Nuttall-Smith <marknuttallsmith@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "~3.8"
+lean = "^1.0.93"
+html5lib = "^1.1"
+bs4 = "^0.0.1"
+
+[tool.poetry.group.dev.dependencies]
+pydevd-pycharm = ">=221.5787.24,<221.5788.0"
+jupyter = "^1.0.0"
+pandas-bokeh = "^0.5.5"
+pytest = "^7.1.2"
+bokeh = "^2.4.3"
+
+
+[tool.poetry.dev-dependencies]
+ipython = "^8.4.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

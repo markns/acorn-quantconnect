@@ -1,0 +1,121 @@
+market,symbol,description,leverage,asset_class
+oanda,USDCHF,USD/CHF,25,FX
+oanda,GBPPLN,GBP/PLN,20,FX
+oanda,CHFJPY,CHF/JPY,25,FX
+oanda,EURHUF,EUR/HUF,20,FX
+oanda,ZARJPY,ZAR/JPY,20,FX
+oanda,AUDCHF,AUD/CHF,20,FX
+oanda,NZDSGD,NZD/SGD,20,FX
+oanda,EURAUD,EUR/AUD,20,FX
+oanda,GBPNZD,GBP/NZD,20,FX
+oanda,AUDNZD,AUD/NZD,20,FX
+oanda,EURCHF,EUR/CHF,25,FX
+oanda,EURSEK,EUR/SEK,20,FX
+oanda,USDSGD,USD/SGD,20,FX
+oanda,USDCNH,USD/CNH,20,FX
+oanda,GBPZAR,GBP/ZAR,20,FX
+oanda,USDCZK,USD/CZK,20,FX
+oanda,SGDCHF,SGD/CHF,20,FX
+oanda,AUDUSD,AUD/USD,20,FX
+oanda,AUDJPY,AUD/JPY,20,FX
+oanda,EURSGD,EUR/SGD,20,FX
+oanda,AUDCAD,AUD/CAD,20,FX
+oanda,NZDHKD,NZD/HKD,10,FX
+oanda,GBPHKD,GBP/HKD,10,FX
+oanda,USDHKD,USD/HKD,10,FX
+oanda,USDHUF,USD/HUF,20,FX
+oanda,NZDCHF,NZD/CHF,20,FX
+oanda,EURNOK,EUR/NOK,20,FX
+oanda,NZDUSD,NZD/USD,20,FX
+oanda,USDTHB,USD/THB,20,FX
+oanda,GBPCHF,GBP/CHF,25,FX
+oanda,EURJPY,EUR/JPY,30,FX
+oanda,USDPLN,USD/PLN,20,FX
+oanda,CHFZAR,CHF/ZAR,20,FX
+oanda,EURNZD,EUR/NZD,20,FX
+oanda,EURHKD,EUR/HKD,10,FX
+oanda,EURGBP,EUR/GBP,30,FX
+oanda,EURCAD,EUR/CAD,30,FX
+oanda,SGDJPY,SGD/JPY,20,FX
+oanda,CADHKD,CAD/HKD,10,FX
+oanda,AUDSGD,AUD/SGD,20,FX
+oanda,USDZAR,USD/ZAR,20,FX
+oanda,USDINR,USD/INR,20,FX
+oanda,TRYJPY,TRY/JPY,4, FX
+oanda,EURPLN,EUR/PLN,20,FX
+oanda,HKDJPY,HKD/JPY,10,FX
+oanda,CADSGD,CAD/SGD,20,FX
+oanda,EURCZK,EUR/CZK,20,FX
+oanda,EURTRY,EUR/TRY,4, FX
+oanda,USDJPY,USD/JPY,30,FX
+oanda,GBPUSD,GBP/USD,30,FX
+oanda,USDMXN,USD/MXN,20,FX
+oanda,EURZAR,EUR/ZAR,20,FX
+oanda,GBPJPY,GBP/JPY,30,FX
+oanda,USDTRY,USD/TRY,4, FX
+oanda,CADJPY,CAD/JPY,30,FX
+oanda,USDDKK,USD/DKK,20,FX
+oanda,USDCAD,USD/CAD,30,FX
+oanda,USDNOK,USD/NOK,20,FX
+oanda,GBPSGD,GBP/SGD,20,FX
+oanda,USDSEK,USD/SEK,20,FX
+oanda,AUDHKD,AUD/HKD,10,FX
+oanda,CHFHKD,CHF/HKD,10,FX
+oanda,GBPCAD,GBP/CAD,30,FX
+oanda,EURDKK,EUR/DKK,10,FX
+oanda,CADCHF,CAD/CHF,25,FX
+oanda,NZDJPY,NZD/JPY,20,FX
+oanda,EURUSD,EUR/USD,30,FX
+oanda,GBPAUD,GBP/AUD,20,FX
+oanda,NZDCAD,NZD/CAD,20,FX
+oanda,USB05YUSD,US 5Y T-Note,5,Bond
+oanda,USB02YUSD,US 2Y T-Note,5,Bond
+oanda,USB10YUSD,US 10Y T-Note,5,Bond
+oanda,DE10YBEUR,Bund,5,Bond
+oanda,UK10YBGBP,UK 10Y Gilt,5,Bond
+oanda,USB30YUSD,US T-Bond,5,Bond
+oanda,XAGHKD,Silver/HKD,10,Metals
+oanda,XAUSGD,Gold/SGD,20,Metals
+oanda,XAGAUD,Silver/AUD,10,Metals
+oanda,XAGUSD,Silver,10,Metals
+oanda,XAUAUD,Gold/AUD,20,Metals
+oanda,XAUNZD,Gold/NZD,20,Metals
+oanda,XAUUSD,Gold,20,Metals
+oanda,XAGEUR,Silver/EUR,10,Metals
+oanda,XAUGBP,Gold/GBP,20,Metals
+oanda,XAUCAD,Gold/CAD,20,Metals
+oanda,XAUCHF,Gold/CHF,20,Metals
+oanda,XAUXAG,Gold/Silver,10,Metals
+oanda,XAUEUR,Gold/EUR,20,Metals
+oanda,XAGCHF,Silver/CHF,10,Metals
+oanda,XAGCAD,Silver/CAD,10,Metals
+oanda,XAGGBP,Silver/GBP,10,Metals
+oanda,XAUHKD,Gold/HKD,20,Metals
+oanda,XAUJPY,Gold/JPY,20,Metals
+oanda,XAGSGD,Silver/SGD,10,Metals
+oanda,XAGNZD,Silver/NZD,10,Metals
+oanda,XAGJPY,Silver/JPY,10,Metals
+oanda,XCUUSD,Copper,10,Metals
+oanda,XPTUSD,Platinum,10,Metals
+oanda,XPDUSD,Palladium,10,Metals
+oanda,SUGARUSD,Sugar,10,Ags
+oanda,CORNUSD,Corn,10,Ags
+oanda,WHEATUSD,Wheat,10,Ags
+oanda,SOYBNUSD,Soybeans,10,Ags
+oanda,BCOUSD,Brent Crude Oil,10,OilGas
+oanda,NATGASUSD,Natural Gas,10,OilGas
+oanda,WTICOUSD,West Texas Oil,10,OilGas
+oanda,NAS100USD,US Nas 100,20,Equity
+oanda,US30USD,US Wall St 30,20,Equity
+oanda,SPX500USD,US SPX 500,20,Equity
+oanda,CH20CHF,Swiss 20,10,Equity
+oanda,UK100GBP,UK 100,20,Equity
+oanda,SG30SGD,Singapore 30,10,Equity
+oanda,AU200AUD,Australia 200,20,Equity
+oanda,NL25EUR,Netherlands 25,10,Equity
+oanda,FR40EUR,France 40,20,Equity
+oanda,EU50EUR,Europe 50,20,Equity
+oanda,HK33HKD,Hong Kong 33,10,Equity
+oanda,US2000USD,US Russ 2000,10,Equity
+oanda,DE30EUR,Germany 30,20,Equity
+oanda,JP225USD,Japan 225,20,Equity
